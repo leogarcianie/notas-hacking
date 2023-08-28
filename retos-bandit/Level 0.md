@@ -8,8 +8,21 @@ User: bandit0
 Password: bandit0
 ```
 ## Solución
-```shell
-ssh bandit0@bandit.labs.overthewire.org -p 2220
+```
+C:\Users\leoga>ssh bandit0@bandit.labs.overthewire.org -p 2220
+
+bandit0@bandit.labs.overthewire.org's password:
+
+--[ More information ]--
+
+  For more information regarding individual wargames, visit
+  http://www.overthewire.org/wargames/
+
+  For support, questions or comments, contact us on discord or IRC.
+
+  Enjoy your stay!
+
+bandit0@bandit:~$
 ```
 ## Notas adicionales
 | Comando | Descripción |
@@ -17,6 +30,5 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 | pwd | Me indica el directorio actual. |
 | whoami | Saber el usuario actual. |
 ## Referencias
-https://overthewire.org/wargames/bandit/bandit0.html
-
-LeoGarcia037
+- [Secure Shell (SSH) on Wikipedia](https://en.wikipedia.org/wiki/Secure_Shell)
+- [How to use SSH on wikiHow](https://www.wikihow.com/Use-SSH)
