@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Level 9 🡪 Level 10.md",
+                "file": "retos-bandit/Level 10 🡪 Level 11.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Level 9 🡪 Level 10.md",
+                "file": "retos-bandit/Level 10 🡪 Level 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Level 9 🡪 Level 10.md",
+                "file": "retos-bandit/Level 10 🡪 Level 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Level 9 🡪 Level 10.md"
+                "file": "retos-bandit/Level 10 🡪 Level 11.md"
               }
             }
           }
@@ -151,9 +151,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir quick switcher": false,
-      "graph:Abrir vista de gráfico": false,
-      "canvas:Create new canvas": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false
@@ -163,6 +163,7 @@
   "lastOpenFiles": [
     "retos-bandit/Level 0.md",
     "retos-bandit/Level 9 🡪 Level 10.md",
+    "retos-bandit/Level 10 🡪 Level 11.md",
     "retos-bandit/Level 8 🡪 Level 9.md",
     "retos-bandit/Level 7 🡪 Level 8.md",
     "retos-bandit/Level 6 🡪 Level 7.md",
