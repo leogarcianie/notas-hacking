@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "7c33cc1409939353",
+            "id": "bd31045fcf726bc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Level 18 🡪 Level 19.md",
+                "file": "retos-bandit/Level 19 🡪 Level 20.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Level 18 🡪 Level 19.md",
+                "file": "retos-bandit/Level 19 🡪 Level 20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Level 18 🡪 Level 19.md",
+                "file": "retos-bandit/Level 19 🡪 Level 20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Level 18 🡪 Level 19.md"
+                "file": "retos-bandit/Level 19 🡪 Level 20.md"
               }
             }
           },
@@ -169,9 +169,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7c33cc1409939353",
+  "active": "bd31045fcf726bc1",
   "lastOpenFiles": [
     "retos-bandit/Level 0.md",
+    "retos-bandit/Level 19 🡪 Level 20.md",
     "retos-bandit/Level 18 🡪 Level 19.md",
     "retos-bandit/Level 17 🡪 Level 18.md",
     "retos-bandit/Level 16 🡪 Level 17.md",
