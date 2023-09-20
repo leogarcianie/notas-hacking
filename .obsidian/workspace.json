@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Level 15 🡪 Level 16.md",
+                "file": "retos-bandit/Level 16 🡪 Level 17.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Level 15 🡪 Level 16.md",
+                "file": "retos-bandit/Level 16 🡪 Level 17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Level 15 🡪 Level 16.md",
+                "file": "retos-bandit/Level 16 🡪 Level 17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Level 15 🡪 Level 16.md"
+                "file": "retos-bandit/Level 16 🡪 Level 17.md"
+              }
+            }
+          },
+          {
+            "id": "c426113acec1c27a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -162,6 +172,7 @@
   "active": "c3aca588bae7806a",
   "lastOpenFiles": [
     "retos-bandit/Level 0.md",
+    "retos-bandit/Level 16 🡪 Level 17.md",
     "retos-bandit/Level 15 🡪 Level 16.md",
     "retos-bandit/Level 14 🡪 Level 15.md",
     "retos-bandit/Level 13 🡪 Level 14.md",
