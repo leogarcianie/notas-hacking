@@ -39,4 +39,3 @@ bandit22@bandit:~$
 | cron | Realizar tareas en un tiempo determinado. |
 ## Referencias
 https://overthewire.org/wargames/bandit/bandit23.html
-https://www.redeszone.net/tutoriales/servidores/cron-crontab-linux-programar-tareas/
