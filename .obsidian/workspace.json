@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/primer-examen-parcial/parte-03/Glitch Cat.md",
+                "file": "picoCTF/primer-examen-parcial/parte-03/PW Crack 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/primer-examen-parcial/parte-03/Glitch Cat.md",
+                "file": "picoCTF/primer-examen-parcial/parte-03/PW Crack 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/primer-examen-parcial/parte-03/Glitch Cat.md",
+                "file": "picoCTF/primer-examen-parcial/parte-03/PW Crack 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/primer-examen-parcial/parte-03/Glitch Cat.md"
+                "file": "picoCTF/primer-examen-parcial/parte-03/PW Crack 1.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "be1105a7a54b19f4",
   "lastOpenFiles": [
-    "picoCTF/primer-examen-parcial/parte-03/fixme2.py.md",
     "picoCTF/primer-examen-parcial/parte-03/Glitch Cat.md",
+    "picoCTF/primer-examen-parcial/parte-03/PW Crack 1.md",
+    "picoCTF/primer-examen-parcial/parte-03/fixme2.py.md",
     "picoCTF/primer-examen-parcial/parte-02/what's a net cat.md",
     "picoCTF/primer-examen-parcial/parte-03",
     "picoCTF/primer-examen-parcial/Nueva carpeta",
@@ -191,7 +192,6 @@
     "retos-bandit/Level 12 🡪 Level 13.md",
     "retos-bandit/Level 32 🡪 Level 33.md",
     "retos-bandit/Level 33 🡪 Level 34.md",
-    "retos-bandit/Level 31 🡪 Level 32.md",
     "retos-bandit"
   ]
 }
