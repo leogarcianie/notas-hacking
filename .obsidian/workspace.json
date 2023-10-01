@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "15bdc69eb1c24ccb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/primer-examen-parcial/parte-01/Nice netcat....md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/primer-examen-parcial/parte-01/Wave a flag.md",
+                "file": "picoCTF/primer-examen-parcial/parte-01/Nice netcat....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/primer-examen-parcial/parte-01/Wave a flag.md",
+                "file": "picoCTF/primer-examen-parcial/parte-01/Nice netcat....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/primer-examen-parcial/parte-01/Wave a flag.md"
+                "file": "picoCTF/primer-examen-parcial/parte-01/Nice netcat....md"
               }
             }
           },
@@ -169,10 +181,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "08d1dfd1d3f46147",
+  "active": "15bdc69eb1c24ccb",
   "lastOpenFiles": [
-    "picoCTF/primer-examen-parcial/parte-01/Obedient Cat.md",
     "picoCTF/primer-examen-parcial/parte-01/Wave a flag.md",
+    "picoCTF/primer-examen-parcial/parte-01/Nice netcat....md",
+    "picoCTF/primer-examen-parcial/parte-01/Obedient Cat.md",
     "retos-bandit/Level 0.md",
     "retos-bandit/Level 28 🡪 Level 29.md",
     "picoCTF/primer-examen-parcial/parte-01",
@@ -202,7 +215,6 @@
     "retos-bandit/Level 15 🡪 Level 16.md",
     "retos-bandit/Level 14 🡪 Level 15.md",
     "retos-bandit/Level 13 🡪 Level 14.md",
-    "Level 14 🡪 Level 15.md",
     "retos-bandit"
   ]
 }
