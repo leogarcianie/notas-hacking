@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2598bc80d23b9d94",
+            "id": "a753ef9be8607138",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/primer-examen-parcial/parte-03/Based.md",
+                "file": "picoCTF/primer-examen-parcial/parte-03/plumbing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/primer-examen-parcial/parte-03/Based.md",
+                "file": "picoCTF/primer-examen-parcial/parte-03/plumbing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/primer-examen-parcial/parte-03/Based.md",
+                "file": "picoCTF/primer-examen-parcial/parte-03/plumbing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/primer-examen-parcial/parte-03/Based.md"
+                "file": "picoCTF/primer-examen-parcial/parte-03/plumbing.md"
               }
             }
           },
@@ -156,10 +156,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2598bc80d23b9d94",
+  "active": "a753ef9be8607138",
   "lastOpenFiles": [
-    "picoCTF/primer-examen-parcial/parte-03/runme.py.md",
     "picoCTF/primer-examen-parcial/parte-03/Based.md",
+    "picoCTF/primer-examen-parcial/parte-03/plumbing.md",
+    "picoCTF/primer-examen-parcial/parte-03/runme.py.md",
     "picoCTF/primer-examen-parcial/parte-03/PW Crack 3.md",
     "picoCTF/primer-examen-parcial/parte-03/PW Crack 2.md",
     "picoCTF/primer-examen-parcial/parte-03/PW Crack 1.md",
@@ -191,7 +192,6 @@
     "picoCTF/Nueva carpeta",
     "picoCTF",
     "Nueva carpeta",
-    "retos-bandit/Level 25 🡪 Level 26.md",
     "retos-bandit"
   ]
 }
