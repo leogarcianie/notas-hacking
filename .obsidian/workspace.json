@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "36ab010e35b733b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/primer-examen-parcial/parte-01/Obedient Cat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08d1dfd1d3f46147",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/primer-examen-parcial/parte-01/Wave a flag.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "15bdc69eb1c24ccb",
             "type": "leaf",
             "state": {
@@ -42,9 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "50c56353cff6af75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/primer-examen-parcial/parte-01/Static ain't always noise.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/primer-examen-parcial/parte-01/Nice netcat....md",
+                "file": "picoCTF/primer-examen-parcial/parte-01/Static ain't always noise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/primer-examen-parcial/parte-01/Nice netcat....md",
+                "file": "picoCTF/primer-examen-parcial/parte-01/Static ain't always noise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/primer-examen-parcial/parte-01/Nice netcat....md"
+                "file": "picoCTF/primer-examen-parcial/parte-01/Static ain't always noise.md"
               }
             }
           },
@@ -181,10 +169,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "15bdc69eb1c24ccb",
+  "active": "50c56353cff6af75",
   "lastOpenFiles": [
-    "picoCTF/primer-examen-parcial/parte-01/Wave a flag.md",
     "picoCTF/primer-examen-parcial/parte-01/Nice netcat....md",
+    "picoCTF/primer-examen-parcial/parte-01/Static ain't always noise.md",
+    "picoCTF/primer-examen-parcial/parte-01/Wave a flag.md",
     "picoCTF/primer-examen-parcial/parte-01/Obedient Cat.md",
     "retos-bandit/Level 0.md",
     "retos-bandit/Level 28 🡪 Level 29.md",
@@ -214,7 +203,6 @@
     "retos-bandit/Level 16 🡪 Level 17.md",
     "retos-bandit/Level 15 🡪 Level 16.md",
     "retos-bandit/Level 14 🡪 Level 15.md",
-    "retos-bandit/Level 13 🡪 Level 14.md",
     "retos-bandit"
   ]
 }
