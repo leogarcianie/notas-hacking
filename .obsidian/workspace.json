@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2e739a360ec8ba94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/primer-examen-parcial/parte-01/Magikarp Ground Mission.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0dded4e8eb8779ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "picoCTF/primer-examen-parcial/parte-01/Lets Warm Up.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "146339781e23208d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/primer-examen-parcial/parte-01/Warmed Up.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/primer-examen-parcial/parte-01/Lets Warm Up.md",
+                "file": "picoCTF/primer-examen-parcial/parte-01/Warmed Up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/primer-examen-parcial/parte-01/Lets Warm Up.md",
+                "file": "picoCTF/primer-examen-parcial/parte-01/Warmed Up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/primer-examen-parcial/parte-01/Lets Warm Up.md"
+                "file": "picoCTF/primer-examen-parcial/parte-01/Warmed Up.md"
               }
             }
           },
@@ -169,10 +169,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0dded4e8eb8779ec",
+  "active": "146339781e23208d",
   "lastOpenFiles": [
-    "picoCTF/primer-examen-parcial/parte-01/Magikarp Ground Mission.md",
     "picoCTF/primer-examen-parcial/parte-01/Lets Warm Up.md",
+    "picoCTF/primer-examen-parcial/parte-01/Warmed Up.md",
+    "picoCTF/primer-examen-parcial/parte-01/Magikarp Ground Mission.md",
     "picoCTF/primer-examen-parcial/parte-01/Tab, Tab, Attack.md",
     "picoCTF/primer-examen-parcial/parte-01/Static ain't always noise.md",
     "picoCTF/primer-examen-parcial/parte-01/Nice netcat....md",
@@ -202,7 +203,6 @@
     "retos-bandit/Level 21 🡪 Level 22.md",
     "retos-bandit/Level 20 🡪 Level 21.md",
     "retos-bandit/Level 19 🡪 Level 20.md",
-    "retos-bandit/Level 18 🡪 Level 19.md",
     "retos-bandit"
   ]
 }
