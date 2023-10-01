@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3cb79c0f5532b8b4",
+            "id": "3a533df2a33c09c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/primer-examen-parcial/parte-02/fixme1.py.md",
+                "file": "picoCTF/primer-examen-parcial/parte-02/strings it.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/primer-examen-parcial/parte-02/fixme1.py.md",
+                "file": "picoCTF/primer-examen-parcial/parte-02/strings it.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/primer-examen-parcial/parte-02/fixme1.py.md",
+                "file": "picoCTF/primer-examen-parcial/parte-02/strings it.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/primer-examen-parcial/parte-02/fixme1.py.md"
+                "file": "picoCTF/primer-examen-parcial/parte-02/strings it.md"
               }
             }
           },
@@ -156,10 +156,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3cb79c0f5532b8b4",
+  "active": "3a533df2a33c09c7",
   "lastOpenFiles": [
-    "picoCTF/primer-examen-parcial/parte-02/First Grep.md",
     "picoCTF/primer-examen-parcial/parte-02/fixme1.py.md",
+    "picoCTF/primer-examen-parcial/parte-02/strings it.md",
+    "picoCTF/primer-examen-parcial/parte-02/First Grep.md",
     "picoCTF/primer-examen-parcial/parte-02/convertme.py.md",
     "picoCTF/primer-examen-parcial/parte-02/Codebook.md",
     "picoCTF/primer-examen-parcial/parte-02/Bases.md",
@@ -190,7 +191,6 @@
     "retos-bandit/Level 30 🡪 Level 31.md",
     "retos-bandit/Level 29 🡪 Level 30.md",
     "retos-bandit/Level 27 🡪 Level 28.md",
-    "retos-bandit/Level 26 🡪 Level 27.md",
     "retos-bandit"
   ]
 }
