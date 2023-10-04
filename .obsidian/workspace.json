@@ -4,16 +4,76 @@
     "type": "split",
     "children": [
       {
-        "id": "7e05e2ff3958132a",
+        "id": "b38ee5b047b8e5ee",
         "type": "tabs",
         "children": [
           {
-            "id": "a753ef9be8607138",
+            "id": "3fd8f5d545983e81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/primer-examen-parcial/parte-03/plumbing.md",
+                "file": "picoCTF/retos-web/Insp3ct0r.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "052ac9048d129121",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/retos-web/dont-use-client-side.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "618d17d2fb480732",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/retos-web/logon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b2a043d88ad5bf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/retos-web/where are the robots.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "505abac2ca01578c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/retos-web/Client-side-again.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af3880d4b848cc47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/retos-web/picobrowser.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/primer-examen-parcial/parte-03/plumbing.md",
+                "file": "picoCTF/retos-web/Insp3ct0r.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/primer-examen-parcial/parte-03/plumbing.md",
+                "file": "picoCTF/retos-web/Insp3ct0r.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/primer-examen-parcial/parte-03/plumbing.md"
+                "file": "picoCTF/retos-web/Insp3ct0r.md"
               }
             }
           },
@@ -156,8 +216,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a753ef9be8607138",
+  "active": "3fd8f5d545983e81",
   "lastOpenFiles": [
+    "picoCTF/retos-web/picobrowser.md",
+    "picoCTF/retos-web/Client-side-again.md",
+    "picoCTF/retos-web/where are the robots.md",
+    "picoCTF/retos-web/logon.md",
+    "picoCTF/retos-web/dont-use-client-side.md",
+    "picoCTF/retos-web/Insp3ct0r.md",
+    "picoCTF/primer-examen-parcial/parte-03/fixme2.py.md",
+    "picoCTF/retos-web",
+    "picoCTF/Nueva carpeta",
     "picoCTF/primer-examen-parcial/parte-03/Based.md",
     "picoCTF/primer-examen-parcial/parte-03/plumbing.md",
     "picoCTF/primer-examen-parcial/parte-03/runme.py.md",
@@ -165,7 +234,6 @@
     "picoCTF/primer-examen-parcial/parte-03/PW Crack 2.md",
     "picoCTF/primer-examen-parcial/parte-03/PW Crack 1.md",
     "picoCTF/primer-examen-parcial/parte-03/Glitch Cat.md",
-    "picoCTF/primer-examen-parcial/parte-03/fixme2.py.md",
     "picoCTF/primer-examen-parcial/parte-02/what's a net cat.md",
     "picoCTF/primer-examen-parcial/parte-03",
     "picoCTF/primer-examen-parcial/Nueva carpeta",
@@ -181,15 +249,8 @@
     "picoCTF/primer-examen-parcial/parte-02",
     "picoCTF/primer-examen-parcial/parte-01/Magikarp Ground Mission.md",
     "picoCTF/primer-examen-parcial/parte-01/Tab, Tab, Attack.md",
-    "picoCTF/primer-examen-parcial/parte-01/Static ain't always noise.md",
-    "picoCTF/primer-examen-parcial/parte-01/Nice netcat....md",
-    "picoCTF/primer-examen-parcial/parte-01/Wave a flag.md",
-    "picoCTF/primer-examen-parcial/parte-01/Obedient Cat.md",
-    "retos-bandit/Level 0.md",
-    "retos-bandit/Level 28 🡪 Level 29.md",
     "picoCTF/primer-examen-parcial/parte-01",
     "picoCTF/primer-examen-parcial",
-    "picoCTF/Nueva carpeta",
     "picoCTF",
     "Nueva carpeta",
     "retos-bandit"
