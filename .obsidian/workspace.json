@@ -4,76 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "b38ee5b047b8e5ee",
+        "id": "cd440fd49a213f8a",
         "type": "tabs",
         "children": [
           {
-            "id": "3fd8f5d545983e81",
+            "id": "6d4d3a15ec65a3d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/retos-web/Insp3ct0r.md",
+                "file": "picoCTF/retos-web/Irish-Name-Repo 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "052ac9048d129121",
+            "id": "7c17774f988884bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/retos-web/dont-use-client-side.md",
+                "file": "picoCTF/retos-web/Irish-Name-Repo 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "618d17d2fb480732",
+            "id": "cfe30abf5561d714",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/retos-web/logon.md",
+                "file": "picoCTF/retos-web/Irish-Name-Repo 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4b2a043d88ad5bf1",
+            "id": "d074f4f079018f19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/retos-web/where are the robots.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "505abac2ca01578c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/retos-web/Client-side-again.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af3880d4b848cc47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/retos-web/picobrowser.md",
+                "file": "picoCTF/retos-web/JaWT Scratchpad.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/retos-web/Insp3ct0r.md",
+                "file": "picoCTF/retos-web/Irish-Name-Repo 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/retos-web/Insp3ct0r.md",
+                "file": "picoCTF/retos-web/Irish-Name-Repo 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/retos-web/Insp3ct0r.md"
+                "file": "picoCTF/retos-web/Irish-Name-Repo 1.md"
               }
             }
           },
@@ -216,14 +192,24 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3fd8f5d545983e81",
+  "active": "6d4d3a15ec65a3d5",
   "lastOpenFiles": [
-    "picoCTF/retos-web/picobrowser.md",
+    "picoCTF/retos-web/JaWT Scratchpad.md",
+    "picoCTF/retos-web/Irish-Name-Repo 3.md",
+    "picoCTF/retos-web/Irish-Name-Repo 2.md",
+    "picoCTF/retos-web/Irish-Name-Repo 1.md",
+    "picoCTF/retos-web/dont-use-client-side.md",
     "picoCTF/retos-web/Client-side-again.md",
+    "Instalación de Herramientas.pdf",
+    "metared/Poor security.md",
+    "metared/An intriguing file.md",
+    "metared/Discord.md",
+    "metared",
+    "Nueva carpeta",
+    "picoCTF/retos-web/Insp3ct0r.md",
+    "picoCTF/retos-web/picobrowser.md",
     "picoCTF/retos-web/where are the robots.md",
     "picoCTF/retos-web/logon.md",
-    "picoCTF/retos-web/dont-use-client-side.md",
-    "picoCTF/retos-web/Insp3ct0r.md",
     "picoCTF/primer-examen-parcial/parte-03/fixme2.py.md",
     "picoCTF/retos-web",
     "picoCTF/Nueva carpeta",
@@ -241,18 +227,8 @@
     "picoCTF/primer-examen-parcial/parte-02/fixme1.py.md",
     "picoCTF/primer-examen-parcial/parte-02/First Grep.md",
     "picoCTF/primer-examen-parcial/parte-02/convertme.py.md",
-    "picoCTF/primer-examen-parcial/parte-02/Codebook.md",
-    "picoCTF/primer-examen-parcial/parte-02/Bases.md",
-    "picoCTF/primer-examen-parcial/parte-02/2Warm.md",
-    "picoCTF/primer-examen-parcial/parte-01/Lets Warm Up.md",
-    "picoCTF/primer-examen-parcial/parte-01/Warmed Up.md",
     "picoCTF/primer-examen-parcial/parte-02",
-    "picoCTF/primer-examen-parcial/parte-01/Magikarp Ground Mission.md",
-    "picoCTF/primer-examen-parcial/parte-01/Tab, Tab, Attack.md",
     "picoCTF/primer-examen-parcial/parte-01",
-    "picoCTF/primer-examen-parcial",
-    "picoCTF",
-    "Nueva carpeta",
-    "retos-bandit"
+    "picoCTF/primer-examen-parcial"
   ]
 }
