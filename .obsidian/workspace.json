@@ -8,18 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b0a45246df083dc3",
+            "id": "57b044e1d9ac97df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/retos-forensic/What Lies Within.md",
+                "file": "picoCTF/retos-forensic/m00nwalk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6652a9a97b9452d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/retos-forensic/WhitePages.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea4d062f0f506b40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/retos-forensic/c0rrupt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "256c7e69ed298e34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/retos-forensic/like1000.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5cd49b4f00db9e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/retos-forensic/shark on wire 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/retos-forensic/What Lies Within.md",
+                "file": "picoCTF/retos-forensic/shark on wire 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/retos-forensic/What Lies Within.md",
+                "file": "picoCTF/retos-forensic/shark on wire 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/retos-forensic/What Lies Within.md"
+                "file": "picoCTF/retos-forensic/shark on wire 2.md"
               }
             }
           },
@@ -156,10 +205,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b0a45246df083dc3",
+  "active": "e5cd49b4f00db9e0",
   "lastOpenFiles": [
-    "picoCTF/retos-forensic/extensions.md",
+    "picoCTF/retos-forensic/like1000.md",
+    "picoCTF/retos-forensic/c0rrupt.md",
+    "picoCTF/retos-forensic/m00nwalk.md",
+    "picoCTF/retos-forensic/WhitePages.md",
+    "picoCTF/retos-forensic/shark on wire 2.md",
     "picoCTF/retos-forensic/What Lies Within.md",
+    "picoCTF/retos-forensic/extensions.md",
     "picoCTF/retos-forensic/shark on wire 1.md",
     "picoCTF/retos-forensic/So Meta.md",
     "picoCTF/retos-forensic/Glory of the Garden.md",
@@ -185,12 +239,7 @@
     "picoCTF/retos-web/picobrowser.md",
     "picoCTF/retos-web/where are the robots.md",
     "picoCTF/retos-web/logon.md",
-    "picoCTF/primer-examen-parcial/parte-03/fixme2.py.md",
     "picoCTF/retos-web",
-    "picoCTF/primer-examen-parcial/parte-03/Based.md",
-    "picoCTF/primer-examen-parcial/parte-03/plumbing.md",
-    "picoCTF/primer-examen-parcial/parte-03/runme.py.md",
-    "picoCTF/primer-examen-parcial/parte-03/PW Crack 3.md",
     "picoCTF/primer-examen-parcial/parte-03",
     "picoCTF/primer-examen-parcial/Nueva carpeta",
     "picoCTF/primer-examen-parcial/parte-02"
