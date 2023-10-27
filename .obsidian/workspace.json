@@ -8,60 +8,60 @@
         "type": "tabs",
         "children": [
           {
-            "id": "57b044e1d9ac97df",
+            "id": "7ede80b491ddfa7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/retos-forensic/m00nwalk.md",
+                "file": "picoCTF/retos-forensic/Matryoshka doll.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6652a9a97b9452d0",
+            "id": "0fea8b047565ac43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/retos-forensic/WhitePages.md",
+                "file": "picoCTF/retos-forensic/tunn3l v1s10n.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ea4d062f0f506b40",
+            "id": "b32044a79d7f4061",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/retos-forensic/c0rrupt.md",
+                "file": "picoCTF/retos-forensic/MacroHard WeakEdge.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "256c7e69ed298e34",
+            "id": "29b6fdf586ee7b8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/retos-forensic/like1000.md",
+                "file": "picoCTF/retos-forensic/WebNet0.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e5cd49b4f00db9e0",
+            "id": "90b31b1a4345951a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/retos-forensic/shark on wire 2.md",
+                "file": "picoCTF/retos-forensic/WebNet1.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/retos-forensic/shark on wire 2.md",
+                "file": "picoCTF/retos-forensic/WebNet1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/retos-forensic/shark on wire 2.md",
+                "file": "picoCTF/retos-forensic/WebNet1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/retos-forensic/shark on wire 2.md"
+                "file": "picoCTF/retos-forensic/WebNet1.md"
               }
             }
           },
@@ -205,13 +205,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e5cd49b4f00db9e0",
+  "active": "90b31b1a4345951a",
   "lastOpenFiles": [
+    "picoCTF/retos-forensic/WebNet0.md",
+    "picoCTF/retos-forensic/WebNet1.md",
+    "picoCTF/retos-forensic/MacroHard WeakEdge.md",
+    "picoCTF/retos-forensic/tunn3l v1s10n.md",
+    "picoCTF/retos-forensic/Matryoshka doll.md",
+    "picoCTF/retos-forensic/shark on wire 2.md",
     "picoCTF/retos-forensic/like1000.md",
     "picoCTF/retos-forensic/c0rrupt.md",
     "picoCTF/retos-forensic/m00nwalk.md",
     "picoCTF/retos-forensic/WhitePages.md",
-    "picoCTF/retos-forensic/shark on wire 2.md",
     "picoCTF/retos-forensic/What Lies Within.md",
     "picoCTF/retos-forensic/extensions.md",
     "picoCTF/retos-forensic/shark on wire 1.md",
@@ -232,13 +237,8 @@
     "Instalación de Herramientas.pdf",
     "metared/Poor security.md",
     "metared/An intriguing file.md",
-    "metared/Discord.md",
     "metared",
     "Nueva carpeta",
-    "picoCTF/retos-web/Insp3ct0r.md",
-    "picoCTF/retos-web/picobrowser.md",
-    "picoCTF/retos-web/where are the robots.md",
-    "picoCTF/retos-web/logon.md",
     "picoCTF/retos-web",
     "picoCTF/primer-examen-parcial/parte-03",
     "picoCTF/primer-examen-parcial/Nueva carpeta",
