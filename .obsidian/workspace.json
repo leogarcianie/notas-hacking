@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7ede80b491ddfa7b",
+            "id": "228ee7d6bc109877",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/retos-forensic/Matryoshka doll.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0fea8b047565ac43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/retos-forensic/tunn3l v1s10n.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b32044a79d7f4061",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/retos-forensic/MacroHard WeakEdge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29b6fdf586ee7b8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/retos-forensic/WebNet0.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90b31b1a4345951a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/retos-forensic/WebNet1.md",
+                "file": "picoCTF/retos-crypto/waves over lambda.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/retos-forensic/WebNet1.md",
+                "file": "picoCTF/retos-crypto/waves over lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/retos-forensic/WebNet1.md",
+                "file": "picoCTF/retos-crypto/waves over lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/retos-forensic/WebNet1.md"
+                "file": "picoCTF/retos-crypto/waves over lambda.md"
               }
             }
           },
@@ -205,10 +156,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "90b31b1a4345951a",
+  "active": "228ee7d6bc109877",
   "lastOpenFiles": [
-    "picoCTF/retos-forensic/WebNet0.md",
+    "picoCTF/retos-crypto/Tapping.md",
+    "picoCTF/retos-crypto/la cifra de.md",
+    "picoCTF/retos-crypto/caesar.md",
+    "picoCTF/retos-crypto/13.md",
+    "picoCTF/retos-crypto/Easy1.md",
+    "picoCTF/retos-crypto/The Numbers.md",
+    "picoCTF/retos-crypto/waves over lambda.md",
     "picoCTF/retos-forensic/WebNet1.md",
+    "picoCTF/retos-crypto",
+    "picoCTF/Nueva carpeta",
+    "picoCTF/retos-forensic/WebNet0.md",
     "picoCTF/retos-forensic/MacroHard WeakEdge.md",
     "picoCTF/retos-forensic/tunn3l v1s10n.md",
     "picoCTF/retos-forensic/Matryoshka doll.md",
@@ -225,23 +185,14 @@
     "picoCTF/retos-web/Client-side-again.md",
     "picoCTF/retos-web/JaWT Scratchpad.md",
     "picoCTF/retos-forensic",
-    "picoCTF/Nueva carpeta",
     "picoCTF/retos-web/Scavenger Hunt.md",
     "Sin título",
     "picoCTF/retos-web/Cookies.md",
-    "picoCTF/retos-web/GET aHEAD.md",
-    "picoCTF/retos-web/dont-use-client-side.md",
-    "picoCTF/retos-web/Irish-Name-Repo 3.md",
-    "picoCTF/retos-web/Irish-Name-Repo 2.md",
-    "picoCTF/retos-web/Irish-Name-Repo 1.md",
     "Instalación de Herramientas.pdf",
-    "metared/Poor security.md",
-    "metared/An intriguing file.md",
     "metared",
     "Nueva carpeta",
     "picoCTF/retos-web",
     "picoCTF/primer-examen-parcial/parte-03",
-    "picoCTF/primer-examen-parcial/Nueva carpeta",
-    "picoCTF/primer-examen-parcial/parte-02"
+    "picoCTF/primer-examen-parcial/Nueva carpeta"
   ]
 }
