@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "440ea0e4291e5d71",
+        "id": "0d85313a5503db98",
         "type": "tabs",
         "children": [
           {
-            "id": "228ee7d6bc109877",
+            "id": "3353c608872aece9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/retos-crypto/waves over lambda.md",
+                "file": "picoCTF/segundo-examen-parcial/parte-01/SQL Direct.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/retos-crypto/waves over lambda.md",
+                "file": "picoCTF/segundo-examen-parcial/parte-01/SQL Direct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/retos-crypto/waves over lambda.md",
+                "file": "picoCTF/segundo-examen-parcial/parte-01/SQL Direct.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/retos-crypto/waves over lambda.md"
+                "file": "picoCTF/segundo-examen-parcial/parte-01/SQL Direct.md"
               }
             }
           },
@@ -156,18 +156,32 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "228ee7d6bc109877",
+  "active": "3353c608872aece9",
   "lastOpenFiles": [
-    "picoCTF/retos-crypto/Tapping.md",
+    "picoCTF/segundo-examen-parcial/parte-01/Secrets.md",
+    "picoCTF/segundo-examen-parcial/parte-01/Roboto Sans.md",
+    "picoCTF/segundo-examen-parcial/parte-01/Power Cookie.md",
+    "picoCTF/segundo-examen-parcial/parte-01/Forbidden Paths.md",
+    "picoCTF/segundo-examen-parcial/parte-01/Search source.md",
+    "picoCTF/segundo-examen-parcial/parte-01/Local Authority.md",
+    "picoCTF/segundo-examen-parcial/parte-01/Inspect HTML.md",
+    "picoCTF/segundo-examen-parcial/parte-01/Includes.md",
+    "picoCTF/segundo-examen-parcial/parte-01/SQL Direct.md",
+    "picoCTF/primer-examen-parcial/parte-01/Lets Warm Up.md",
     "picoCTF/retos-crypto/la cifra de.md",
-    "picoCTF/retos-crypto/caesar.md",
+    "picoCTF/segundo-examen-parcial/parte-01",
+    "picoCTF/segundo-examen-parcial/Nueva carpeta",
+    "picoCTF/segundo-examen-parcial/Sin título.md",
+    "picoCTF/segundo-examen-parcial",
+    "picoCTF/Nueva carpeta",
     "picoCTF/retos-crypto/13.md",
+    "picoCTF/retos-crypto/waves over lambda.md",
+    "picoCTF/retos-crypto/Tapping.md",
+    "picoCTF/retos-crypto/caesar.md",
     "picoCTF/retos-crypto/Easy1.md",
     "picoCTF/retos-crypto/The Numbers.md",
-    "picoCTF/retos-crypto/waves over lambda.md",
     "picoCTF/retos-forensic/WebNet1.md",
     "picoCTF/retos-crypto",
-    "picoCTF/Nueva carpeta",
     "picoCTF/retos-forensic/WebNet0.md",
     "picoCTF/retos-forensic/MacroHard WeakEdge.md",
     "picoCTF/retos-forensic/tunn3l v1s10n.md",
@@ -175,24 +189,10 @@
     "picoCTF/retos-forensic/shark on wire 2.md",
     "picoCTF/retos-forensic/like1000.md",
     "picoCTF/retos-forensic/c0rrupt.md",
-    "picoCTF/retos-forensic/m00nwalk.md",
-    "picoCTF/retos-forensic/WhitePages.md",
-    "picoCTF/retos-forensic/What Lies Within.md",
-    "picoCTF/retos-forensic/extensions.md",
-    "picoCTF/retos-forensic/shark on wire 1.md",
-    "picoCTF/retos-forensic/So Meta.md",
-    "picoCTF/retos-forensic/Glory of the Garden.md",
-    "picoCTF/retos-web/Client-side-again.md",
-    "picoCTF/retos-web/JaWT Scratchpad.md",
     "picoCTF/retos-forensic",
-    "picoCTF/retos-web/Scavenger Hunt.md",
     "Sin título",
-    "picoCTF/retos-web/Cookies.md",
     "Instalación de Herramientas.pdf",
     "metared",
-    "Nueva carpeta",
-    "picoCTF/retos-web",
-    "picoCTF/primer-examen-parcial/parte-03",
-    "picoCTF/primer-examen-parcial/Nueva carpeta"
+    "Nueva carpeta"
   ]
 }
