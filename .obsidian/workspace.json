@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3353c608872aece9",
+            "id": "44e2787379a55f4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/segundo-examen-parcial/parte-01/SQL Direct.md",
+                "file": "picoCTF/segundo-examen-parcial/parte-02/St3g0.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/segundo-examen-parcial/parte-01/SQL Direct.md",
+                "file": "picoCTF/segundo-examen-parcial/parte-02/St3g0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/segundo-examen-parcial/parte-01/SQL Direct.md",
+                "file": "picoCTF/segundo-examen-parcial/parte-02/St3g0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/segundo-examen-parcial/parte-01/SQL Direct.md"
+                "file": "picoCTF/segundo-examen-parcial/parte-02/St3g0.md"
               }
             }
           },
@@ -156,21 +156,30 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3353c608872aece9",
+  "active": "44e2787379a55f4f",
   "lastOpenFiles": [
+    "picoCTF/segundo-examen-parcial/parte-02/Wireshark doo dooo do doo....md",
+    "picoCTF/segundo-examen-parcial/parte-02/Redaction gone wrong.md",
+    "picoCTF/segundo-examen-parcial/parte-02/St3g0.md",
+    "picoCTF/segundo-examen-parcial/parte-02/Packets Primer.md",
+    "picoCTF/segundo-examen-parcial/parte-02/Lookey here.md",
+    "picoCTF/segundo-examen-parcial/parte-02/Enhance!.md",
+    "picoCTF/segundo-examen-parcial/parte-02/information.md",
+    "picoCTF/segundo-examen-parcial/parte-01/Forbidden Paths.md",
+    "retos-bandit/Plantilla.md",
+    "picoCTF/segundo-examen-parcial/parte-01/SQL Direct.md",
+    "picoCTF/segundo-examen-parcial/parte-02",
+    "picoCTF/segundo-examen-parcial/Nueva carpeta",
     "picoCTF/segundo-examen-parcial/parte-01/Secrets.md",
     "picoCTF/segundo-examen-parcial/parte-01/Roboto Sans.md",
     "picoCTF/segundo-examen-parcial/parte-01/Power Cookie.md",
-    "picoCTF/segundo-examen-parcial/parte-01/Forbidden Paths.md",
     "picoCTF/segundo-examen-parcial/parte-01/Search source.md",
     "picoCTF/segundo-examen-parcial/parte-01/Local Authority.md",
     "picoCTF/segundo-examen-parcial/parte-01/Inspect HTML.md",
     "picoCTF/segundo-examen-parcial/parte-01/Includes.md",
-    "picoCTF/segundo-examen-parcial/parte-01/SQL Direct.md",
     "picoCTF/primer-examen-parcial/parte-01/Lets Warm Up.md",
     "picoCTF/retos-crypto/la cifra de.md",
     "picoCTF/segundo-examen-parcial/parte-01",
-    "picoCTF/segundo-examen-parcial/Nueva carpeta",
     "picoCTF/segundo-examen-parcial/Sin título.md",
     "picoCTF/segundo-examen-parcial",
     "picoCTF/Nueva carpeta",
@@ -180,19 +189,10 @@
     "picoCTF/retos-crypto/caesar.md",
     "picoCTF/retos-crypto/Easy1.md",
     "picoCTF/retos-crypto/The Numbers.md",
-    "picoCTF/retos-forensic/WebNet1.md",
     "picoCTF/retos-crypto",
-    "picoCTF/retos-forensic/WebNet0.md",
-    "picoCTF/retos-forensic/MacroHard WeakEdge.md",
-    "picoCTF/retos-forensic/tunn3l v1s10n.md",
-    "picoCTF/retos-forensic/Matryoshka doll.md",
-    "picoCTF/retos-forensic/shark on wire 2.md",
-    "picoCTF/retos-forensic/like1000.md",
-    "picoCTF/retos-forensic/c0rrupt.md",
     "picoCTF/retos-forensic",
     "Sin título",
     "Instalación de Herramientas.pdf",
-    "metared",
-    "Nueva carpeta"
+    "metared"
   ]
 }
