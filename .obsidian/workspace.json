@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "44e2787379a55f4f",
+            "id": "d2e2f77e459e62a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/segundo-examen-parcial/parte-02/St3g0.md",
+                "file": "picoCTF/retos-crypto/b00tl3gRSA2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/segundo-examen-parcial/parte-02/St3g0.md",
+                "file": "picoCTF/retos-crypto/b00tl3gRSA2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/segundo-examen-parcial/parte-02/St3g0.md",
+                "file": "picoCTF/retos-crypto/b00tl3gRSA2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/segundo-examen-parcial/parte-02/St3g0.md"
+                "file": "picoCTF/retos-crypto/b00tl3gRSA2.md"
               }
             }
           },
@@ -156,11 +156,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "44e2787379a55f4f",
+  "active": "d2e2f77e459e62a5",
   "lastOpenFiles": [
+    "picoCTF/retos-crypto/rsa-pop-quiz.md",
+    "picoCTF/retos-crypto/miniRSA.md",
+    "picoCTF/retos-crypto/b00tl3gRSA2.md",
+    "picoCTF/retos-crypto/13.md",
+    "picoCTF/segundo-examen-parcial/parte-02/St3g0.md",
     "picoCTF/segundo-examen-parcial/parte-02/Wireshark doo dooo do doo....md",
     "picoCTF/segundo-examen-parcial/parte-02/Redaction gone wrong.md",
-    "picoCTF/segundo-examen-parcial/parte-02/St3g0.md",
     "picoCTF/segundo-examen-parcial/parte-02/Packets Primer.md",
     "picoCTF/segundo-examen-parcial/parte-02/Lookey here.md",
     "picoCTF/segundo-examen-parcial/parte-02/Enhance!.md",
@@ -183,12 +187,8 @@
     "picoCTF/segundo-examen-parcial/Sin título.md",
     "picoCTF/segundo-examen-parcial",
     "picoCTF/Nueva carpeta",
-    "picoCTF/retos-crypto/13.md",
     "picoCTF/retos-crypto/waves over lambda.md",
     "picoCTF/retos-crypto/Tapping.md",
-    "picoCTF/retos-crypto/caesar.md",
-    "picoCTF/retos-crypto/Easy1.md",
-    "picoCTF/retos-crypto/The Numbers.md",
     "picoCTF/retos-crypto",
     "picoCTF/retos-forensic",
     "Sin título",
