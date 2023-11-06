@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d2e2f77e459e62a5",
+            "id": "b132912b85260377",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/retos-crypto/b00tl3gRSA2.md",
+                "file": "picoCTF/retos-crypto/ReadMyCert.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/retos-crypto/b00tl3gRSA2.md",
+                "file": "picoCTF/retos-crypto/ReadMyCert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/retos-crypto/b00tl3gRSA2.md",
+                "file": "picoCTF/retos-crypto/ReadMyCert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/retos-crypto/b00tl3gRSA2.md"
+                "file": "picoCTF/retos-crypto/ReadMyCert.md"
               }
             }
           },
@@ -156,11 +156,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d2e2f77e459e62a5",
+  "active": "b132912b85260377",
   "lastOpenFiles": [
+    "picoCTF/retos-crypto/Pixelated.md",
+    "picoCTF/retos-crypto/HideToSee.md",
+    "picoCTF/retos-crypto/basic-mod1.md",
+    "picoCTF/retos-crypto/Mind your Ps and Qs.md",
+    "picoCTF/retos-crypto/ReadMyCert.md",
+    "picoCTF/retos-crypto/b00tl3gRSA2.md",
     "picoCTF/retos-crypto/rsa-pop-quiz.md",
     "picoCTF/retos-crypto/miniRSA.md",
-    "picoCTF/retos-crypto/b00tl3gRSA2.md",
     "picoCTF/retos-crypto/13.md",
     "picoCTF/segundo-examen-parcial/parte-02/St3g0.md",
     "picoCTF/segundo-examen-parcial/parte-02/Wireshark doo dooo do doo....md",
@@ -181,14 +186,9 @@
     "picoCTF/segundo-examen-parcial/parte-01/Local Authority.md",
     "picoCTF/segundo-examen-parcial/parte-01/Inspect HTML.md",
     "picoCTF/segundo-examen-parcial/parte-01/Includes.md",
-    "picoCTF/primer-examen-parcial/parte-01/Lets Warm Up.md",
-    "picoCTF/retos-crypto/la cifra de.md",
     "picoCTF/segundo-examen-parcial/parte-01",
-    "picoCTF/segundo-examen-parcial/Sin título.md",
     "picoCTF/segundo-examen-parcial",
     "picoCTF/Nueva carpeta",
-    "picoCTF/retos-crypto/waves over lambda.md",
-    "picoCTF/retos-crypto/Tapping.md",
     "picoCTF/retos-crypto",
     "picoCTF/retos-forensic",
     "Sin título",
