@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3ad5105ec7e0c1d2",
+            "id": "6c512d28b534e50d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/retos-reversing/vault-door-5.md",
+                "file": "picoCTF/retos-reversing/asm1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09f647fd0b29e385",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/retos-reversing/asm2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1771518725e773b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/retos-reversing/asm3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/retos-reversing/vault-door-5.md",
+                "file": "picoCTF/retos-reversing/asm3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/retos-reversing/vault-door-5.md",
+                "file": "picoCTF/retos-reversing/asm3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/retos-reversing/vault-door-5.md"
+                "file": "picoCTF/retos-reversing/asm3.md"
               }
             }
           },
@@ -156,13 +181,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3ad5105ec7e0c1d2",
+  "active": "1771518725e773b1",
   "lastOpenFiles": [
+    "picoCTF/retos-reversing/asm1.md",
+    "picoCTF/retos-reversing/asm3.md",
+    "picoCTF/retos-reversing/asm2.md",
+    "picoCTF/retos-reversing/vault-door-5.md",
     "picoCTF/retos-reversing/vault-door-4.md",
     "picoCTF/retos-reversing/vault-door-3.md",
     "picoCTF/retos-reversing/vault-door-1.md",
     "picoCTF/retos-reversing/vault-door-training.md",
-    "picoCTF/retos-reversing/vault-door-5.md",
     "picoCTF/retos-crypto/ReadMyCert.md",
     "picoCTF/retos-reversing",
     "picoCTF/Nueva carpeta",
@@ -183,11 +211,8 @@
     "picoCTF/segundo-examen-parcial/parte-02/information.md",
     "picoCTF/segundo-examen-parcial/parte-01/Forbidden Paths.md",
     "retos-bandit/Plantilla.md",
-    "picoCTF/segundo-examen-parcial/parte-01/SQL Direct.md",
     "picoCTF/segundo-examen-parcial/parte-02",
     "picoCTF/segundo-examen-parcial/Nueva carpeta",
-    "picoCTF/segundo-examen-parcial/parte-01/Secrets.md",
-    "picoCTF/segundo-examen-parcial/parte-01/Roboto Sans.md",
     "picoCTF/segundo-examen-parcial/parte-01",
     "picoCTF/segundo-examen-parcial",
     "picoCTF/retos-crypto",
