@@ -8,43 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6c512d28b534e50d",
+            "id": "a69d53b722f343f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/retos-reversing/asm1.md",
+                "file": "picoCTF/retos-reversing/GDB Test Drive.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "09f647fd0b29e385",
+            "id": "4f00269af17193b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/retos-reversing/asm2.md",
+                "file": "picoCTF/retos-reversing/Safe Opener 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1771518725e773b1",
+            "id": "9f545363f306d8ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/retos-reversing/asm3.md",
+                "file": "picoCTF/retos-reversing/reverse_cipher.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71a9de3c9ab80a31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/retos-reversing/Need For Speed.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/retos-reversing/asm3.md",
+                "file": "picoCTF/retos-reversing/Need For Speed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/retos-reversing/asm3.md",
+                "file": "picoCTF/retos-reversing/Need For Speed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/retos-reversing/asm3.md"
+                "file": "picoCTF/retos-reversing/Need For Speed.md"
               }
             }
           },
@@ -181,11 +193,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1771518725e773b1",
+  "active": "71a9de3c9ab80a31",
   "lastOpenFiles": [
-    "picoCTF/retos-reversing/asm1.md",
+    "picoCTF/retos-reversing/reverse_cipher.md",
+    "picoCTF/retos-reversing/Safe Opener 2.md",
+    "picoCTF/retos-reversing/GDB Test Drive.md",
+    "picoCTF/retos-reversing/Need For Speed.md",
     "picoCTF/retos-reversing/asm3.md",
     "picoCTF/retos-reversing/asm2.md",
+    "picoCTF/retos-reversing/asm1.md",
     "picoCTF/retos-reversing/vault-door-5.md",
     "picoCTF/retos-reversing/vault-door-4.md",
     "picoCTF/retos-reversing/vault-door-3.md",
@@ -207,10 +223,6 @@
     "picoCTF/segundo-examen-parcial/parte-02/Redaction gone wrong.md",
     "picoCTF/segundo-examen-parcial/parte-02/Packets Primer.md",
     "picoCTF/segundo-examen-parcial/parte-02/Lookey here.md",
-    "picoCTF/segundo-examen-parcial/parte-02/Enhance!.md",
-    "picoCTF/segundo-examen-parcial/parte-02/information.md",
-    "picoCTF/segundo-examen-parcial/parte-01/Forbidden Paths.md",
-    "retos-bandit/Plantilla.md",
     "picoCTF/segundo-examen-parcial/parte-02",
     "picoCTF/segundo-examen-parcial/Nueva carpeta",
     "picoCTF/segundo-examen-parcial/parte-01",
