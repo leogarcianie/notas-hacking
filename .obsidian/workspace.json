@@ -8,55 +8,90 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a69d53b722f343f1",
+            "id": "346120f42f259251",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/retos-reversing/GDB Test Drive.md",
+                "file": "picoCTF/tercer-examen-parcial/parte-02/ASCII FTW.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4f00269af17193b9",
+            "id": "cdadd3a0b5153bc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/retos-reversing/Safe Opener 2.md",
+                "file": "picoCTF/tercer-examen-parcial/parte-02/Bit-O-Asm-1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9f545363f306d8ce",
+            "id": "0f31e21258e43035",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/retos-reversing/reverse_cipher.md",
+                "file": "picoCTF/tercer-examen-parcial/parte-02/Bit-O-Asm-2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "71a9de3c9ab80a31",
+            "id": "e5a4228e0d3af476",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/retos-reversing/Need For Speed.md",
+                "file": "picoCTF/tercer-examen-parcial/parte-02/Bit-O-Asm-3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1b22841fe06b167",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/tercer-examen-parcial/parte-02/Bit-O-Asm-4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "891e228fc6040330",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/tercer-examen-parcial/parte-02/GDB baby step 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2b798712a250dc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/tercer-examen-parcial/parte-02/GDB baby step 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/retos-reversing/Need For Speed.md",
+                "file": "picoCTF/tercer-examen-parcial/parte-02/ASCII FTW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/retos-reversing/Need For Speed.md",
+                "file": "picoCTF/tercer-examen-parcial/parte-02/ASCII FTW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/retos-reversing/Need For Speed.md"
+                "file": "picoCTF/tercer-examen-parcial/parte-02/ASCII FTW.md"
               }
             }
           },
@@ -193,12 +228,29 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "71a9de3c9ab80a31",
+  "active": "346120f42f259251",
   "lastOpenFiles": [
+    "picoCTF/tercer-examen-parcial/parte-02/GDB baby step 2.md",
+    "picoCTF/tercer-examen-parcial/parte-02/GDB baby step 1.md",
+    "picoCTF/tercer-examen-parcial/parte-02/Bit-O-Asm-4.md",
+    "picoCTF/tercer-examen-parcial/parte-02/Bit-O-Asm-3.md",
+    "picoCTF/tercer-examen-parcial/parte-02/Bit-O-Asm-2.md",
+    "picoCTF/tercer-examen-parcial/parte-02/ASCII FTW.md",
+    "picoCTF/tercer-examen-parcial/parte-02/Bit-O-Asm-1.md",
+    "picoCTF/tercer-examen-parcial/parte-01/Flags.md",
+    "picoCTF/tercer-examen-parcial/parte-02",
+    "picoCTF/tercer-examen-parcial/Nueva carpeta",
+    "picoCTF/tercer-examen-parcial/parte-01/SRA.md",
+    "picoCTF/tercer-examen-parcial/parte-01/Mr-Worldwide.md",
+    "picoCTF/tercer-examen-parcial/parte-01/Vigenere.md",
+    "picoCTF/tercer-examen-parcial/parte-01/transposition-trial.md",
+    "picoCTF/retos-reversing/Need For Speed.md",
+    "picoCTF/tercer-examen-parcial/parte-01",
+    "picoCTF/tercer-examen-parcial",
+    "picoCTF/Nueva carpeta",
     "picoCTF/retos-reversing/reverse_cipher.md",
     "picoCTF/retos-reversing/Safe Opener 2.md",
     "picoCTF/retos-reversing/GDB Test Drive.md",
-    "picoCTF/retos-reversing/Need For Speed.md",
     "picoCTF/retos-reversing/asm3.md",
     "picoCTF/retos-reversing/asm2.md",
     "picoCTF/retos-reversing/asm1.md",
@@ -209,27 +261,10 @@
     "picoCTF/retos-reversing/vault-door-training.md",
     "picoCTF/retos-crypto/ReadMyCert.md",
     "picoCTF/retos-reversing",
-    "picoCTF/Nueva carpeta",
     "picoCTF/retos-crypto/Pixelated.md",
-    "picoCTF/retos-crypto/HideToSee.md",
-    "picoCTF/retos-crypto/basic-mod1.md",
-    "picoCTF/retos-crypto/Mind your Ps and Qs.md",
-    "picoCTF/retos-crypto/b00tl3gRSA2.md",
-    "picoCTF/retos-crypto/rsa-pop-quiz.md",
-    "picoCTF/retos-crypto/miniRSA.md",
-    "picoCTF/retos-crypto/13.md",
-    "picoCTF/segundo-examen-parcial/parte-02/St3g0.md",
-    "picoCTF/segundo-examen-parcial/parte-02/Wireshark doo dooo do doo....md",
-    "picoCTF/segundo-examen-parcial/parte-02/Redaction gone wrong.md",
-    "picoCTF/segundo-examen-parcial/parte-02/Packets Primer.md",
-    "picoCTF/segundo-examen-parcial/parte-02/Lookey here.md",
     "picoCTF/segundo-examen-parcial/parte-02",
     "picoCTF/segundo-examen-parcial/Nueva carpeta",
     "picoCTF/segundo-examen-parcial/parte-01",
-    "picoCTF/segundo-examen-parcial",
-    "picoCTF/retos-crypto",
-    "picoCTF/retos-forensic",
-    "Sin título",
-    "Instalación de Herramientas.pdf"
+    "picoCTF/segundo-examen-parcial"
   ]
 }
